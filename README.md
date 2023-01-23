@@ -30,4 +30,4 @@ We don't want to detect a flying mask HAHAHAHA!
 
 # Preview 
 
-![](https://github.com/moez-RT/Real-Time-Mask-Detection/blob/master/preview-mask-detection.gif)
+![](https://github.com/moez-saidi/Real-Time-Mask-Detection/blob/master/preview-mask-detection.gif)
